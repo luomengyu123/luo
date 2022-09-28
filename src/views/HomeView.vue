@@ -2,34 +2,34 @@
   <div class="home">
     <div class="nav">
       <div class="pic">
-        <img src="http://localhost:8080/images/img_02.png" alt="">
+        <img src="../../public/images/img_02.png" alt="">
       </div>
     </div>
     <div class="headline">
       <div class="headline_item">
-        <img src="http://localhost:8080/images/img_05.png" alt="">
+        <img src="../../public/images/img_05.png" alt="">
         <p>限时抢购</p>
       </div>
       <div class="headline_item">
-        <img src="http://localhost:8080/images/img_07.png" alt="">
+        <img src="../../public/images/img_07.png" alt="">
         <p>登录福利</p>
       </div>
       <div class="headline_item">
-        <img src="http://localhost:8080/images/img_09.png" alt="">
+        <img src="../../public/images/img_09.png" alt="">
         <p>优惠券包</p>
       </div>
       <div class="headline_item">
-        <img src="http://localhost:8080/images/img_11.png" alt="">
+        <img src="../../public/images/img_11.png" alt="">
         <p>推荐新品</p>
       </div>
     </div>
     <div class="intro">
       <div>
-        <img src="http://localhost:8080/images/img_20.png" alt="">
+        <img src="../../public/images/img_20.png" alt="">
       </div>
       <div>
-        <img src="http://localhost:8080/images/img_18.png" alt="">
-        <img src="http://localhost:8080/images/img_23.png" alt="">
+        <img src="../../public/images/img_18.png" alt="">
+        <img src="../../public/images/img_23.png" alt="">
       </div>
     </div>
     <div class="flashSale">
